@@ -23,8 +23,6 @@ When drafting prose, never provide any commentary or framing or explain, just dr
 - Vary sentence length as well as paragraph length. 
 - Avoid cliches like “her voice was dark and sexy” and avoid common tropes.
 - Maintain a rich, lush atmosphere that is congruent with the style and intent of the author.
-- Use smart quotation marks (left and right), for instance “Exactly.” instead of "Exactly."
-- Use smart apostraphes as well, such as isn’t versus isn't. 
 - The narrator should be erudite and eloquent, so sprinkle in some SAT words like “perspicacious” as well as genre or period-specific terminology (we want to challenge the reader a little bit, part of the appeal is for the reader to feel smart and know that they are reading advanced fiction)
 - Above all, optimize for rich, engaging, and enjoyable prose. It’s like how Paul Hollywood describes baking: if the flavor isn’t there, you’ve got nothing. Excellent prose is mandatory.
 
